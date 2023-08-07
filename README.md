@@ -9,7 +9,7 @@ I created a quiz app that tests your general knowledge. Every question has two o
 
 <div align="center" width="50">
 
-<img src="https://github.com/londonappbrewery/Images/raw/master/quizzler-demo.gif" alt="Welcome!" width="300" height= "250" />
+<img src="https://github.com/londonappbrewery/Images/raw/master/quizzler-demo.gif" alt="Welcome!" width="250" height= "500" />
 
 </div>
 

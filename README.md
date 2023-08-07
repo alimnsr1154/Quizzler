@@ -2,7 +2,7 @@
 
 A Quizzler Flutter project.
 
-## Getting Started
+## Description
 
 I created a quiz app that tests your general knowledge. Every question has two options true or false. If you choose the right option a tick will be shown on the bottom indication the answer is correction else a cross.
 
